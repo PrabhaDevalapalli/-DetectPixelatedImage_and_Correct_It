@@ -5,7 +5,7 @@
 
 This repository contains the code and resources for an image restoration project using a UNET model. The goal of this project is to restore blurred images to their original sharpness using deep learning techniques.
 
-## Problem Statement
+## Problem Statement 
 
 The prevalence of blurred or low-quality images due to camera limitations, environmental conditions, or motion presents a significant challenge. Blurred images can lead to misinterpretation of critical information, reducing their utility and reliability in fields like medical imaging, surveillance, and photography.
 
