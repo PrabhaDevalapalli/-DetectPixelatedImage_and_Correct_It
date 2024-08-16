@@ -30,7 +30,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```sh
-   https://github.com/srikartv/DetectPixelatedImage_and_Correct_It-
+   https://github.com/PrabhaDevalapalli/-DetectPixelatedImage_and_Correct_It
 
 2. Train the Model:
    ```sh
